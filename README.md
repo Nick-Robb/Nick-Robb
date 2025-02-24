@@ -1,4 +1,4 @@
-🚀 Nicholas Robb – Aspiring Cybersecurity Analyst
+🚀 Nick Robb – Aspiring Cybersecurity Analyst
 🔹 Security+ | Threat Detection | Digital Forensics | Risk Management
 🔹 Hands-on experience with Windows Server 2025, Kali Linux, SIEM, and cybersecurity tools
 
