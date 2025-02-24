@@ -1,19 +1,34 @@
-- 👋 Hi, I’m @Nick-Robb
-- 👀 I’m interested in ... Cybersecurity fundamentals — including risk assessment, vulnerability management, and data protection.
-Threat detection and incident response — identifying and responding to security incidents with precision.
-Cloud security — learning secure deployment practices and understanding risks in cloud-based systems.
-- 🌱 I’m currently learning ... Cybersecurity Basics: Developing a solid foundation in cybersecurity principles, risk management, and best practices.
-Network Security: Understanding protocols, firewalls, and intrusion detection to enhance secure network practices.
-Digital Forensics: Learning how to analyze and preserve digital evidence, with a focus on threat detection and incident response.
-Cloud Security Fundamentals: Gaining insight into secure cloud deployments, access management, and data protection.
-- 💞️ I’m looking to collaborate on ... Cybersecurity Projects: Any projects focused on threat detection, incident response, and vulnerability assessment.
-Network and Cloud Security: Projects that explore secure network configurations, access control, or cloud security solutions.
+🚀 Nicholas Robb – Aspiring Cybersecurity Analyst
+🔹 Security+ | Threat Detection | Digital Forensics | Risk Management
+🔹 Hands-on experience with Windows Server 2025, Kali Linux, SIEM, and cybersecurity tools
 
-- 📫 How to reach me ... Nick.T.Robb@Gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I have a background in criminal justice, so I’ve always had an interest in investigative work—now, I’m diving into digital forensics to bring that passion for solving mysteries to the cybersecurity world!
+👀 About Me
+I’m an aspiring Cybersecurity Analyst with a background in criminal justice and finance, bringing a strong investigative mindset to digital security. Passionate about:
+✅ Threat Detection & Incident Response – Analyzing logs, detecting anomalies, and responding to security threats.
+✅ Vulnerability Management – Identifying and mitigating risks in IT systems.
+✅ Cloud & Network Security – Understanding secure configurations, access control, and cloud security principles.
+✅ Digital Forensics – Investigating cybersecurity incidents and preserving digital evidence.
 
-<!---
-Nick-Robb/Nick-Robb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Goal: Transition into a SOC Analyst or Cybersecurity Analyst role where I can help secure organizations against cyber threats.
+
+🌱 What I’m Learning
+📌 Security+ Certification Prep – Studying network security, cryptography, and risk management.
+📌 SIEM & Log Analysis – Using Splunk to detect threats and analyze security events.
+📌 Windows & Linux Hardening – Strengthening system security to reduce attack surfaces.
+📌 TryHackMe & CTF Challenges – Hands-on penetration testing and ethical hacking exercises.
+
+🛠 Cybersecurity Projects (Hands-On Experience)
+🔒 Windows Server 2025 Security Hardening
+Implemented security policies, configured access controls, and set up event logging.
+
+🕵️‍♂️ TryHackMe & CTF Writeups
+Documented penetration testing techniques, attack vectors, and mitigation strategies.
+
+⚡ PowerShell Security Scripts
+Automated log analysis, user access monitoring, and vulnerability scanning.
+
+💡 How to Connect
+📩 Email: Nick.T.Robb@gmail.com
+🔗 LinkedIn: Nicholas Robb
+🔗 Portfolio Website (if available): Your Portfolio
+
