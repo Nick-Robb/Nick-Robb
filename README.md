@@ -1,34 +1,46 @@
-🚀 Nick Robb – Aspiring Cybersecurity Analyst
-🔹 Security+ | Threat Detection | Digital Forensics | Risk Management
-🔹 Hands-on experience with Windows Server 2025, Kali Linux, SIEM, and cybersecurity tools
+# Nick Robb — Cybersecurity Professional | AI-Powered Defender | SOC & Offensive Ops
 
-👀 About Me
-I’m an aspiring Cybersecurity Analyst with a background in criminal justice and finance, bringing a strong investigative mindset to digital security. Passionate about:
-✅ Threat Detection & Incident Response – Analyzing logs, detecting anomalies, and responding to security threats.
-✅ Vulnerability Management – Identifying and mitigating risks in IT systems.
-✅ Cloud & Network Security – Understanding secure configurations, access control, and cloud security principles.
-✅ Digital Forensics – Investigating cybersecurity incidents and preserving digital evidence.
+Six months ago, I had no background in tech. Today, I’ve built a functioning SOC lab, passed CompTIA Security+, and simulate real-world cyber attacks and defenses from my own network. Every project here is documented to show what I’ve done, how I did it, and what I learned — not just to prove I can work in cybersecurity, but to prove I already am.
 
-🎯 Goal: Transition into a SOC Analyst or Cybersecurity Analyst role where I can help secure organizations against cyber threats.
+## Featured Projects
 
-🌱 What I’m Learning
-📌 Security+ Certification Prep – Studying network security, cryptography, and risk management.
-📌 SIEM & Log Analysis – Using Splunk to detect threats and analyze security events.
-📌 Windows & Linux Hardening – Strengthening system security to reduce attack surfaces.
-📌 TryHackMe & CTF Challenges – Hands-on penetration testing and ethical hacking exercises.
+- **Cyber Threat Intel Bot**  
+  Automated threat intelligence collection and summarization from sources like VirusTotal, AlienVault, and Shodan using Python and OpenAI.
 
-🛠 Cybersecurity Projects (Hands-On Experience)
-🔒 Windows Server 2025 Security Hardening
-Implemented security policies, configured access controls, and set up event logging.
+- **SQL Injection Tester**  
+  A custom script to automate SQLi vulnerability testing across web applications, built for efficiency in home lab and CTF scenarios.
 
-🕵️‍♂️ TryHackMe & CTF Writeups
-Documented penetration testing techniques, attack vectors, and mitigation strategies.
+- **Official Intelligence Blog**  
+  Fully automated pipeline that generates and posts weekly cybersecurity blog content to Hashnode and LinkedIn using AI.
 
-⚡ PowerShell Security Scripts
-Automated log analysis, user access monitoring, and vulnerability scanning.
+- **Chromecast IoT Hack**  
+  Local-network IoT exploitation of a vulnerable Chromecast device. Includes documentation of setup, payload delivery, and lessons learned.
 
-💡 How to Connect
-📩 Email: Nick.T.Robb@gmail.com
-🔗 LinkedIn: Nicholas Robb
-🔗 Portfolio Website (if available): Your Portfolio
+- **SOC-in-a-Box**  
+  A self-contained SOC built on Windows Server 2025. Logs, alerts, real-time monitoring, automation scripts, and detection rules included.
 
+## Technical Focus
+
+- Defensive Security: SIEM, log parsing, incident detection and response, Windows event logging.
+- Offensive Security: Vulnerability scanning, exploitation (Metasploit, Nessus), IoT testing, CVE targeting.
+- AI + Automation: Python automation across blog posting, resume updates, threat intel gathering, LinkedIn content generation.
+- Tools: Kali Linux, VMware, Burp Suite, Metasploit, Wireshark, Flipper Zero, Hashcat, Nessus, Nmap, and more.
+
+## Credentials
+
+- **CompTIA Security+** — Passed April 2025
+- **TryHackMe Cyber Security 101 Path** — Completed  
+  Ranked in the top 7% of users globally on the platform.
+
+## About Me
+
+- Based in Windsor, Colorado
+- From zero knowledge to running end-to-end attacks and defenses in a home lab
+- Building automation into every cybersecurity workflow
+- Focused on real-world skills, not just theory
+- Always learning, always documenting
+
+## Contact
+
+- **Email**: nickrobbcyber@gmail.com  
+- **LinkedIn**: [linkedin.com/in/nickrobb](https://www.linkedin.com/in/nickrobb)
