@@ -43,4 +43,4 @@ Six months ago, I had no background in tech. Today, I’ve built a functioning S
 ## Contact
 
 - **Email**: nickrobbcyber@gmail.com  
-- **LinkedIn**: [linkedin.com/in/nickrobb](https://www.linkedin.com/in/nickrobb)
+- **LinkedIn**: www.linkedin.com/in/nicholas-robb-22097b1b8
