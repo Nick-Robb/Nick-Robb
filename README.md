@@ -1,46 +1,62 @@
-# Nick Robb — Cybersecurity Professional | AI-Powered Defender | SOC & Offensive Ops
+# Nick Robb — Cybersecurity Professional | AI-Enhanced Defense and Offensive Operations
 
-Six months ago, I had no background in tech. Today, I’ve built a functioning SOC lab, passed CompTIA Security+, and simulate real-world cyber attacks and defenses from my own network. Every project here is documented to show what I’ve done, how I did it, and what I learned — not just to prove I can work in cybersecurity, but to prove I already am.
+Six months ago, I transitioned into cybersecurity from a non-technical background. Since then, I’ve built a fully operational Security Operations Center (SOC) lab, passed the CompTIA Security+ certification, and documented real-world penetration testing and defense workflows.
 
-## Featured Projects
+Every project here is based on hands-on learning, automation, and practical application — focused on building skills that solve real security problems.
 
-- **Cyber Threat Intel Bot**  
-  Automated threat intelligence collection and summarization from sources like VirusTotal, AlienVault, and Shodan using Python and OpenAI.
+---
 
-- **SQL Injection Tester**  
-  A custom script to automate SQLi vulnerability testing across web applications, built for efficiency in home lab and CTF scenarios.
+## 🔹 Featured Projects
 
-- **Official Intelligence Blog**  
-  Fully automated pipeline that generates and posts weekly cybersecurity blog content to Hashnode and LinkedIn using AI.
+- [**Cyber Threat Intel Bot**](https://github.com/Nick-Robb/cyber-threat-intel-bot)  
+Automated threat intelligence collection and CVE tracking, leveraging Python, OpenAI, VirusTotal, AlienVault, and Shodan APIs.
 
-- **Chromecast IoT Hack**  
-  Local-network IoT exploitation of a vulnerable Chromecast device. Includes documentation of setup, payload delivery, and lessons learned.
+- [**SQL Injection Tester**](https://github.com/Nick-Robb/sql-injection-tester)  
+A lightweight Python tool to automate SQL Injection vulnerability discovery across login forms.
 
-- **SOC-in-a-Box**  
-  A self-contained SOC built on Windows Server 2025. Logs, alerts, real-time monitoring, automation scripts, and detection rules included.
+- [**Official Intelligence Blog**](https://github.com/Nick-Robb/official-intelligence)  
+An AI-driven publishing system that generates and posts cybersecurity blog articles to Hashnode and LinkedIn automatically.
 
-## Technical Focus
+- [**Chromecast IoT Exploit**](https://github.com/Nick-Robb/Chromecast-IoT-Exploit)  
+Compromise of an IoT device (Chromecast) in a real-world home network lab, including payload delivery and network analysis.
 
-- Defensive Security: SIEM, log parsing, incident detection and response, Windows event logging.
-- Offensive Security: Vulnerability scanning, exploitation (Metasploit, Nessus), IoT testing, CVE targeting.
-- AI + Automation: Python automation across blog posting, resume updates, threat intel gathering, LinkedIn content generation.
-- Tools: Kali Linux, VMware, Burp Suite, Metasploit, Wireshark, Flipper Zero, Hashcat, Nessus, Nmap, and more.
+- [**SOC-in-a-Box**]  
+A full Windows Server 2025-based SOC environment with real-time alerting, logging, detection rules, and automation scripts. *(Repo private/in development.)*
 
-## Credentials
+---
 
-- **CompTIA Security+** — Passed April 2025
-- **TryHackMe Cyber Security 101 Path** — Completed  
-  Ranked in the top 7% of users globally on the platform.
+## 🛠️ Technical Focus
 
-## About Me
+- **Defensive Security**:  
+  - SIEM design (event collection, parsing, correlation)
+  - Windows event logging, incident detection, and response
+- **Offensive Security**:  
+  - Vulnerability scanning (Nmap, Nessus, OpenVAS)
+  - IoT testing, CVE targeting, custom exploit documentation
+- **Automation and AI Integration**:  
+  - Python scripting for threat intelligence, reporting, blog publishing, and resume updates
+- **Core Tools**:  
+  - Kali Linux, VMware, Metasploit, Burp Suite, Nessus, Flipper Zero, Hashcat, Wireshark
+
+---
+
+## 📚 Credentials
+
+- CompTIA Security+ — Passed April 2025
+- TryHackMe Cybersecurity 101 Path — Completed (Top 7% Global Ranking)
+
+---
+
+## 📍 About Me
 
 - Based in Windsor, Colorado
-- From zero knowledge to running end-to-end attacks and defenses in a home lab
-- Building automation into every cybersecurity workflow
-- Focused on real-world skills, not just theory
-- Always learning, always documenting
+- Focused on integrating AI and automation into cybersecurity workflows
+- Emphasizing real-world problem solving over academic theory
+- Committed to continuous learning and technical depth
 
-## Contact
+---
 
-- **Email**: nickrobbcyber@gmail.com  
-- **LinkedIn**: www.linkedin.com/in/nicholas-robb-22097b1b8
+## 📫 Contact
+
+- Email: Nick.T.Robb@gmail.com
+- LinkedIn: [Nick Robb](https://www.linkedin.com/in/nickrobb/)
