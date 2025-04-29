@@ -59,4 +59,4 @@ A full Windows Server 2025-based SOC environment with real-time alerting, loggin
 ## 📫 Contact
 
 - Email: Nick.T.Robb@gmail.com
-- LinkedIn: [Nick Robb](https://www.linkedin.com/in/nickrobb/)
+- LinkedIn: [Nicholas Robb](https://www.linkedin.com/in/nicholas-robb-22097b1b8)
