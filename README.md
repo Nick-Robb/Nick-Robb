@@ -8,7 +8,7 @@ Every project here is based on hands-on learning, automation, and practical appl
 
 ## 🔹 Featured Projects
 
-- [**Cyber Threat Intel Bot**](https://github.com/Nick-Robb/cyber-threat-intel-bot)  
+- [**Cyber Threat Feed**](https://github.com/Nick-Robb/Cyber-Threat-Feed)  
 Automated threat intelligence collection and CVE tracking, leveraging Python, OpenAI, VirusTotal, AlienVault, and Shodan APIs.
 
 - [**SQL Injection Tester**](https://github.com/Nick-Robb/sql-injection-tester)  
