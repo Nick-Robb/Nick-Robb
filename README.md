@@ -6,10 +6,10 @@
 
 Six months ago I left a non‑technical banking role to dive head‑first into cybersecurity. In that time I’ve:
 
-- 🚀 Built and automated a Splunk‑based SIEM lab on AWS via Terraform (with AI‑guided HCL scripting)  
-- ✅ Passed CompTIA Security+ (April 2025)  
-- 🎯 Documented real‑world penetration tests (IoT, web apps, network services)  
-- 🤖 Developed AI‑driven tooling for threat intelligence and blog publishing  
+-  Built and automated a Splunk‑based SIEM lab on AWS via Terraform (with AI‑guided HCL scripting)  
+-  Passed CompTIA Security+ (April 2025)  
+-  Documented real‑world penetration tests (IoT, web apps, network services)  
+-  Developed AI‑driven tooling for threat intelligence and blog publishing  
 
 I’m now actively seeking remote Entry‑Level Cybersecurity Analyst or SOC Analyst roles. Rapid self‑starter—top 7% on TryHackMe.
 
