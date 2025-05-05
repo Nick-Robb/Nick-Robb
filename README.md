@@ -1,63 +1,112 @@
-# Nick Robb — Cybersecurity Professional | AI‑Enhanced Defense and Offensive Operations
+# Nick Robb — Cybersecurity Professional | AI‑Enhanced Defense & Offensive Operations
 
-Six months ago, I transitioned into cybersecurity from a non‑technical background. Since then, I’ve built a fully operational Splunk‑based SIEM lab in AWS, passed the CompTIA Security+ certification, and documented real‑world penetration testing and defense workflows.
+> **Each solution here was conceived, built, and documented in days—starting from zero development or cybersecurity background—so I could prioritize CompTIA Security+ study while still delivering working automation and labs.**
 
-Every project here is based on hands‑on learning, automation, and practical application — focused on building skills that solve real security problems.
+> **Powered by AI:** These projects showcase my ability to leverage ChatGPT for rapid learning, problem‑solving, and automation. Without AI assistance, these prototypes would have taken me weeks or months instead of days.
+
+Six months ago I left a non‑technical banking role to dive head‑first into cybersecurity. In that time I’ve:
+
+- 🚀 Built and automated a Splunk‑based SIEM lab on AWS via Terraform (with AI‑guided HCL scripting)  
+- ✅ Passed CompTIA Security+ (April 2025)  
+- 🎯 Documented real‑world penetration tests (IoT, web apps, network services)  
+- 🤖 Developed AI‑driven tooling for threat intelligence and blog publishing  
+
+I’m now actively seeking remote Entry‑Level Cybersecurity Analyst or SOC Analyst roles. Rapid self‑starter—top 7% on TryHackMe.
+
+---
+
+## 🔹 Certifications
+
+| Certification                       | Issued       | Notes                      |
+|-------------------------------------|--------------|----------------------------|
+| CompTIA Security+                   | April 1 2025 |                             |
+| TryHackMe Cybersecurity 101 (Path)  | Feb 2025     | Top 7% global ranking      |
+
+---
+
+## 🔹 Skills & Proficiency
+
+| Area                                | Level                 | Context                                                                 |
+|-------------------------------------|-----------------------|-------------------------------------------------------------------------|
+| SIEM (Splunk) & Terraform           | Beginner → Intermediate | Deployed Splunk Enterprise on AWS with CloudTrail & VPC Flow Logs; AI‑assisted Terraform scripting. |
+| Vulnerability Assessment            | Intermediate          | Ran Nessus, Nmap, OpenVAS scans against home‑lab targets; AI‑guided analysis of top findings.       |
+| Web Pentesting (SQLi, XSS)          | Beginner → Intermediate | Built and tested a SQLi scanner; AI‑aided exploitation of XSS in lab web apps.                     |
+| Python Scripting & API Integration  | Intermediate          | Automated threat‑intel pipelines using Python, OpenAI, VirusTotal, AlienVault & Shodan APIs.       |
+| AI‑Assisted Security Workflows      | Intermediate          | Developed “Official Intelligence” blog engine with AI prompting strategies; exploring further SOC integration. |
 
 ---
 
 ## 🔹 Featured Projects
 
-- [**Cyber Threat Feed**](https://github.com/Nick-Robb/Cyber-Threat-Feed)  
-  Automated threat intelligence collection and CVE tracking, leveraging Python, OpenAI, VirusTotal, AlienVault, and Shodan APIs.
+### Cyber Threat Feed  
+> **Built in days with zero prior experience—AI‑accelerated.**  
+> Rapid‑prototyped a Python pipeline that collects, correlates, and reports CVEs and security news via OpenAI, VirusTotal, AlienVault & Shodan APIs.  
+> _Goal:_ learn full‑stack automation under real‑world constraints, not perfection.
 
-- [**SQL Injection Tester**](https://github.com/Nick-Robb/sql-injection-tester)  
-  A lightweight Python tool to automate SQL Injection vulnerability discovery across login forms.
+🔗 https://github.com/Nick‑Robb/Cyber‑Threat‑Feed
 
-- [**Official Intelligence Blog**](https://github.com/Nick-Robb/official-intelligence)  
-  An AI‑driven publishing system that generates and posts cybersecurity blog articles to Hashnode and LinkedIn automatically.
+---
 
-- [**Chromecast IoT Exploit**](https://github.com/Nick-Robb/Chromecast-IoT-Exploit)  
-  Compromise of an IoT device (Chromecast) in a real‑world home network lab, including payload delivery and network analysis.
+### SQL Injection Tester  
+> **Rapid MVP (days)—AI‑guided learning.**  
+> Lightweight Python tool that scans login forms for SQLi, outputs detailed findings.  
+> _Context:_ built from scratch with ChatGPT assistance to understand injection techniques.
 
-- [**Splunk Cloud SIEM Lab**](https://github.com/Nick-Robb/splunk-cloud-siem-lab)  
-  Terraform‑driven AWS deployment of CloudTrail and VPC Flow Logs into S3, spinning up Splunk Enterprise on EC2 with HEC and AWS Add‑on configured. Complete end‑to‑end SIEM data pipeline with automated admin bootstrap and ingestion tests.
+🔗 https://github.com/Nick‑Robb/sql‑injection‑tester
+
+---
+
+### Official Intelligence Blog  
+> **Shipped in days with AI prompting expertise.**  
+> Automatically generates and posts concise, industry‑relevant articles to Hashnode & LinkedIn.  
+> _Focus:_ end‑to‑end delivery, not perfect prose—powered by ChatGPT.
+
+🔗 https://github.com/Nick‑Robb/official‑intelligence
+
+---
+
+### Chromecast IoT Exploit  
+> **Home‑lab proof‑of‑concept in days—AI‑supported.**  
+> Demonstrated remote compromise of a Chromecast device; documented payload delivery and network forensics.  
+> _Outcome:_ detailed write‑up suitable for portfolio and learning, with AI help on exploit development.
+
+🔗 https://github.com/Nick‑Robb/chromecast‑iot‑hack
+
+---
+
+### Splunk Cloud SIEM Lab  
+> **Terraform‑driven AWS deployment in days—AI‑assisted HCL.**  
+> Ingests CloudTrail & VPC Flow Logs into S3, spins up Splunk Enterprise on EC2 with HEC and AWS Add‑on configured.  
+> Complete end‑to‑end SIEM pipeline with automated admin bootstrap and ingestion tests, guided by ChatGPT.
+
+🔗 https://github.com/Nick‑Robb/splunk‑cloud‑siem‑lab
 
 ---
 
 ## 🛠️ Technical Focus
 
-- **Defensive Security**:  
-  - SIEM design (event collection, parsing, correlation)  
-  - Windows event logging, incident detection, and response  
-- **Offensive Security**:  
-  - Vulnerability scanning (Nmap, Nessus, OpenVAS)  
-  - IoT testing, CVE targeting, custom exploit documentation  
-- **Automation and AI Integration**:  
-  - Python scripting for threat intelligence, reporting, blog publishing, and resume updates  
-- **Core Tools**:  
-  - Terraform, AWS, Splunk Enterprise, Kali Linux, Metasploit, Burp Suite, Nessus, Wireshark  
-
----
-
-## 📚 Credentials
-
-- CompTIA Security+ — Passed April 2025  
-- TryHackMe Cybersecurity 101 Path — Completed (Top 7% Global Ranking)  
+- **Defensive Security**: SIEM design, Windows event logging, incident detection & response  
+- **Offensive Security**: Network & web scanning (Nmap, Nessus, OpenVAS), IoT testing, CVE research  
+- **Automation & AI**: Python & APIs, Terraform IaC, AI‑assisted workflows with OpenAI  
 
 ---
 
 ## 📍 About Me
 
-- Based in Windsor, Colorado  
-- Focused on integrating AI and automation into cybersecurity workflows  
-- Emphasizing real‑world problem solving over academic theory  
-- Committed to continuous learning and technical depth  
+- Located in Windsor, Colorado (MST)  
+- Expert at leveraging AI to accelerate learning and delivery  
+- Emphasis on practical, hands‑on problem solving over theory  
+- Committed to continuous growth in both offensive and defensive security  
 
 ---
 
 ## 📫 Contact
 
-- Email: Nick.T.Robb@gmail.com  
-- LinkedIn: [Nicholas Robb](https://www.linkedin.com/in/nicholas-robb-22097b1b8)  
+- ✉️ nick@0ntr0.com  
+- LinkedIn: https://linkedin.com/in/nick‑robb  
+- Portfolio: https://0ntr0.com  
+
+> **Let’s connect** if you want a self‑motivated analyst who turns ideas into working solutions in days—powered by AI and driven by curiosity.  
+
+
 
