@@ -43,25 +43,25 @@ I’m now actively seeking remote Entry‑Level Cybersecurity Analyst or SOC Ana
 ### Cyber Threat Feed  
 Rapid‑prototyped a Python pipeline that collects, correlates, and reports CVEs and security news via OpenAI, VirusTotal, AlienVault & Shodan APIs.  
 _Goal:_ learn full‑stack automation under real‑world constraints, not perfection.  
-🔗 github.com/Nick‑Robb/Cyber‑Threat‑Feed
+🔗 https://github.com/Nick-Robb/Cyber-Threat-Feed
 
 ### SQL Injection Tester  
 Lightweight Python tool that scans login forms for SQLi, outputs detailed findings.  
 _Context:_ built from scratch with ChatGPT assistance to understand injection techniques.  
-🔗 github.com/Nick‑Robb/sql‑injection‑tester
+🔗 https://github.com/Nick-Robb/sql-injection-tester
 
 ### Official Intelligence Blog  
 AI‑driven engine that generates and posts concise, industry‑relevant articles to Hashnode & LinkedIn.  
 _Focus:_ end‑to‑end delivery, not perfect prose.  
-🔗 github.com/Nick‑Robb/official‑intelligence
+🔗 https://github.com/Nick-Robb/official-intelligence
 
 ### Chromecast IoT Exploit  
 Demonstrated remote compromise of a Chromecast device; documented payload delivery and network forensics.  
-🔗 github.com/Nick‑Robb/chromecast‑iot‑hack
+🔗 https://github.com/Nick-Robb/chromecast-iot-hack
 
 ### Splunk Cloud SIEM Lab  
 Terraform‑driven AWS deployment ingesting CloudTrail & VPC Flow Logs into Splunk Enterprise with automated ingestion tests.  
-🔗 github.com/Nick‑Robb/splunk‑cloud‑siem‑lab
+🔗 https://github.com/Nick-Robb/splunk-cloud-siem-lab  
 
 ---
 
