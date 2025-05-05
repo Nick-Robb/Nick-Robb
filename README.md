@@ -38,48 +38,30 @@ I’m now actively seeking remote Entry‑Level Cybersecurity Analyst or SOC Ana
 
 ## 🔹 Featured Projects
 
+> **Built and documented in just a few days—powered by AI assistance—while studying for Security+.**
+
 ### Cyber Threat Feed  
-> **Built in days with zero prior experience—AI‑accelerated.**  
-> Rapid‑prototyped a Python pipeline that collects, correlates, and reports CVEs and security news via OpenAI, VirusTotal, AlienVault & Shodan APIs.  
-> _Goal:_ learn full‑stack automation under real‑world constraints, not perfection.
-
-🔗 https://github.com/Nick‑Robb/Cyber‑Threat‑Feed
-
----
+Rapid‑prototyped a Python pipeline that collects, correlates, and reports CVEs and security news via OpenAI, VirusTotal, AlienVault & Shodan APIs.  
+_Goal:_ learn full‑stack automation under real‑world constraints, not perfection.  
+🔗 github.com/Nick‑Robb/Cyber‑Threat‑Feed
 
 ### SQL Injection Tester  
-> **Rapid MVP (days)—AI‑guided learning.**  
-> Lightweight Python tool that scans login forms for SQLi, outputs detailed findings.  
-> _Context:_ built from scratch with ChatGPT assistance to understand injection techniques.
-
-🔗 https://github.com/Nick‑Robb/sql‑injection‑tester
-
----
+Lightweight Python tool that scans login forms for SQLi, outputs detailed findings.  
+_Context:_ built from scratch with ChatGPT assistance to understand injection techniques.  
+🔗 github.com/Nick‑Robb/sql‑injection‑tester
 
 ### Official Intelligence Blog  
-> **Shipped in days with AI prompting expertise.**  
-> Automatically generates and posts concise, industry‑relevant articles to Hashnode & LinkedIn.  
-> _Focus:_ end‑to‑end delivery, not perfect prose—powered by ChatGPT.
-
-🔗 https://github.com/Nick‑Robb/official‑intelligence
-
----
+AI‑driven engine that generates and posts concise, industry‑relevant articles to Hashnode & LinkedIn.  
+_Focus:_ end‑to‑end delivery, not perfect prose.  
+🔗 github.com/Nick‑Robb/official‑intelligence
 
 ### Chromecast IoT Exploit  
-> **Home‑lab proof‑of‑concept in days—AI‑supported.**  
-> Demonstrated remote compromise of a Chromecast device; documented payload delivery and network forensics.  
-> _Outcome:_ detailed write‑up suitable for portfolio and learning, with AI help on exploit development.
-
-🔗 https://github.com/Nick‑Robb/chromecast‑iot‑hack
-
----
+Demonstrated remote compromise of a Chromecast device; documented payload delivery and network forensics.  
+🔗 github.com/Nick‑Robb/chromecast‑iot‑hack
 
 ### Splunk Cloud SIEM Lab  
-> **Terraform‑driven AWS deployment in days—AI‑assisted HCL.**  
-> Ingests CloudTrail & VPC Flow Logs into S3, spins up Splunk Enterprise on EC2 with HEC and AWS Add‑on configured.  
-> Complete end‑to‑end SIEM pipeline with automated admin bootstrap and ingestion tests, guided by ChatGPT.
-
-🔗 https://github.com/Nick‑Robb/splunk‑cloud‑siem‑lab
+Terraform‑driven AWS deployment ingesting CloudTrail & VPC Flow Logs into Splunk Enterprise with automated ingestion tests.  
+🔗 github.com/Nick‑Robb/splunk‑cloud‑siem‑lab
 
 ---
 
