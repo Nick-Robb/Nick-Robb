@@ -11,7 +11,7 @@ Six months ago I left a non‑technical banking role to dive head‑first into c
 -  Documented real‑world penetration tests (IoT, web apps, network services)  
 -  Developed AI‑driven tooling for threat intelligence and blog publishing  
 
-I’m now actively seeking remote Entry‑Level Cybersecurity Analyst or SOC Analyst roles. Rapid self‑starter—top 7% on TryHackMe.
+I’m now actively seeking remote or on-site Entry‑Level Cybersecurity Analyst or SOC Analyst roles. Rapid self‑starter—top 7% on TryHackMe.
 
 ---
 
